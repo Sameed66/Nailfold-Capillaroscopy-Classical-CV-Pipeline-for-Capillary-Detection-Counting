@@ -91,7 +91,7 @@ data/
 
 ---
 
-## ▶️ Quick Start (Notebook)
+## Quick Start (Notebook)
 
 1. **Open** the project in a terminal and start Jupyter:
    ```bash
@@ -115,7 +115,7 @@ data/
 
 ---
 
-## ⚙️ Technical Pipeline
+## Technical Pipeline
 
 1. **Preprocessing**
    - Extract **green channel** (maximizes vessel contrast)
@@ -189,7 +189,7 @@ The notebook includes:
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 - Implementation based on standard OpenCV & scikit-image primitives.
 - See the accompanying project report for methodology details and references.
